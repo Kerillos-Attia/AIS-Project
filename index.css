@@ -1,0 +1,25 @@
+.navbar-brand {
+    width: 150px;
+}
+.custombg {
+    background-color: #5e1914;
+}
+.primarytext {
+    color: #ea1703;
+}
+
+.storelink {
+    background-color: white;
+}
+
+.accordion {
+    --bs-accordion-bg: #5e1914;
+    --bs-accordion-color:white;
+}
+
+.accordion-item {
+    border: 0;
+}
+.accordion-button {
+    color: white;
+}
